@@ -16,7 +16,7 @@ StockIntellect is a user-friendly news research tool designed for effortless inf
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/amogh0109/StockIntellect
+  git clone [https://github.com/amogh0109/StockIntellect](https://github.com/amogh0109/StockIntellect.git)
 ```
 2.Navigate to the project directory:
 
