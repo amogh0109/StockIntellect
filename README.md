@@ -16,12 +16,12 @@ StockIntellect is a user-friendly news research tool designed for effortless inf
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/mihirkudale/RockyBot-News-Research-Tool-LLM-App-Using-Langchain-OpenAI.git
+  git clone https://github.com/amogh0109/StockIntellect
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd RockyBot-News-Research-Tool-LLM-App-Using-Langchain-OpenAI
+  cd StockIntellect
 ```
 3. Install the required dependencies using pip:
 
